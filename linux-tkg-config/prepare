@@ -22,7 +22,7 @@ _kver_subver_map=(
   ["5.17"]="15"
   ["5.18"]="19"
   ["5.19"]="11"
-  ["6.0"]="rc6"
+  ["6.0"]="rc7"
 )
 
 # PREEMPT_RT's supported kernel subversion
