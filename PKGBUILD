@@ -307,7 +307,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            'f384a7e239e391f7cb63617784d91635e02324340bcfae3b2ea4f0a671065637'
+            '8cca64b75d7d0a224925a5ba0e652454cbbdc719d74fa01b681c46b7c21ac13f'
             'd4de0b21bded28eba4826640397f5ef1d6d1c72c4671d9d0f6861ed6b8c6c026'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -610,7 +610,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('57b2cf6991910e3b67a1b3490022e8a0674b6965c74c12da1e99d138d1991ee8'
-            'e7fbdc9d62c4d58fbadbb7711648fa48024d4e20273349cdb589232dcd99855e'
+            '74642676b3e3be47c4c9bba06fa0fe3cbe93757a74e864df82b28d5721b09c06'
             'd77f79b817bd0ac79bd2f5a929734236a4745534d7757ddf874719932bd24957'
             '6e3ef6bc4779ae3b7154642147d5ab3ece6e38e3e08bdb30f86d89d2b4855fa9'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
